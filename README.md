@@ -5,7 +5,7 @@ By scraping leads from Google Maps, you can build a database of potential custom
 Watch this Youtube video to learn: [How to Scrape Data From Google Maps?](https://www.youtube.com/watch?v=I_KR4Kee7Zw) 
 
 # The Best Google Maps Scraper?
-Check this full review: [Best Google Maps Scraper Review - Must Read Google Maps Scraping Tool Report](https://bestgmapscraper.com/) 
+Check this full review: [Best Google Maps Scraper](https://bestgmapscraper.com/) 
 
 
 
